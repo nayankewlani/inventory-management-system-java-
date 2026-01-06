@@ -17,4 +17,4 @@ A console-based inventory management system written in Java.
 - Scanner
 
 ## How to Run
-1. Compile the program:
+1. Compile the program:inventory.java
